@@ -1,0 +1,1 @@
+This quiz website are build using html,css and javascript and also use a api.
